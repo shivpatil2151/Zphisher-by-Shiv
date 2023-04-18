@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ##   Zphisher 	: 	Automated Phishing Tool
-##   Author 	: 	CYBERZCOP
+##   Author 	: 	CYBERZSHIV
 ##   Version 	: 	1.0
 ##   Github 	: 	https://github.com/shivpatil2151/cybertools.git
 
@@ -79,7 +79,7 @@ banner() {
 		${ORANGE}      | |                                
 		${ORANGE}      |_|                ${RED}Version : 1.0
 
-		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by CYBERZCOP${WHITE}
+		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by CYBERZSHIV${WHITE}
 	EOF
 }
 
@@ -89,7 +89,7 @@ banner_small() {
 		${BLUE}
 		${BLUE}  ░▀▀█░█▀█░█░█░▀█▀░█▀▀░█░█░█▀▀░█▀▄
 		${BLUE}  ░▄▀░░█▀▀░█▀█░░█░░▀▀█░█▀█░█▀▀░█▀▄
-		${BLUE}  ░▀▀▀░▀░░░▀░▀░▀▀▀░▀▀▀░▀░▀░▀▀▀░▀░▀${WHITE} 2.0
+		${BLUE}  ░▀▀▀░▀░░░▀░▀░▀▀▀░▀▀▀░▀░▀░▀▀▀░▀░▀${WHITE} 1.0
 	EOF
 }
 
