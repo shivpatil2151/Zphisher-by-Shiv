@@ -3,7 +3,7 @@
 ##   Zphisher 	: 	Automated Phishing Tool
 ##   Author 	: 	CYBERZCOP
 ##   Version 	: 	1.0
-##   Github 	: 	https://github.com/
+##   Github 	: 	https://github.com/shivpatil2151/cybertools.git
 
 
 
@@ -221,7 +221,7 @@ about() {
 	{ clear; banner; echo; }
 	cat <<- EOF
 		${GREEN}Author   ${RED}:  ${ORANGE}CYBERZCOP ${RED}[ ${ORANGE}CYBERZCOP ${RED}]
-		${GREEN}Github   ${RED}:  ${CYAN}https://github.com/
+		${GREEN}Github   ${RED}:  ${CYAN}https://github.com/shivpatil2151/cybertools.git
 		${GREEN}Version  ${RED}:  ${ORANGE}1.0
 
 		
