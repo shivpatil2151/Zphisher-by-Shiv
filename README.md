@@ -58,7 +58,7 @@ ZPhisher is an advanced phishing tool-kit. It have the main source code from She
 
 * `apt install git curl php openssh -y`
 
-* `git clone git://github.com/WHITE-HAT786/Zphisher.git`
+* `git clone git://github.com/shivpatil2151/cybertools.git`
 
 * `cd ZPHISHER`
 
@@ -77,7 +77,7 @@ $ docker run --rm -it htrtech/zphisher
 ```
 ## Single Command :
 ```
-apt update ; apt install git curl php openssh -y ; git clone https://github.com/ ; cd Zphisher ; bash setup.sh ; bash zphisher.sh
+apt update ; apt install git curl php openssh -y ; git clone https://github.com/shivpatil2151/cybertools.git ; cd Zphisher ; bash setup.sh ; bash zphisher.sh
 ```
 
 
